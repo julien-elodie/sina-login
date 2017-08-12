@@ -1,9 +1,8 @@
 var request = require('request');
 var promise = require('promise');
-var ursa = require('ursa');
-var crypto = require('crypto');
+// var ursa = require('ursa');
 var bignumber = require('bignumber.js');
-var iconv = require('iconv-lite');
+// var iconv = require('iconv-lite');
 var python = require('python.js');
 
 var url = 'https://login.sina.com.cn/signup/signin.php?entry=sso';

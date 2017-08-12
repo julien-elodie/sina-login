@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/julien-elodie/sina-login/issues"
   },
-  "homepage": "https://github.com/julien-elodie/sina-login#readme"
+  "homepage": "https://github.com/julien-elodie/sina-login#readme",
+  "dependencies": {
+    "bignumber.js": "^4.0.2",
+    "promise": "^8.0.1",
+    "python.js": "^0.5.0",
+    "request": "^2.81.0"
+  }
 }
